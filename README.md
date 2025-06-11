@@ -11,9 +11,6 @@ Kubernetes for DevOps is a comprehensive repository aimed at providing a hands-o
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
